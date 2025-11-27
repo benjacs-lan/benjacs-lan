@@ -24,7 +24,6 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 ## Proyectos Destacados
 
 "Proyectos juniors que estoy haciendo tengo estos por ahora..."
-<!-- Aquí tienes el proyecto: -->
 
 <!-- - **[Herramienta de reconocimiento de red](https://github.com/pentesttjp-spec/Herramienta-de-reconocimiento-de-red)**: Proyecto basico que hice en mi otra cuenta de github por querer hacer algo relacionado a nmap una de mis herramientas favoritas. -->  
 <!-- - **[DevOps-Automation-Suite](https://github.com/benjacs-lan/DevOps-Automation-Suite)**: Este fue mi primer proyecto relacionado al DevOps, muy de principiante pero interesante. -->  
