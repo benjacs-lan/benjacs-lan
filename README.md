@@ -4,10 +4,10 @@
 
 ## Acerca de mí
 
-- 🎓 **Principal**: DevOps junior y Ciberseguridad  
+- 🎓 **Principal**: DevOps / Cloud y MLOps
 - 📍 **Ubicación**: Cordoba - Argentina  
 - 💼 **Puesto/trabajo actual**: Dispuesto a encontrar nuevos retos y superacion constante apesar de ser muy joven
-- 🌱 **Aprendizaje actual**: DevOps , desarrollo de software y Pentesting  
+- 🌱 **Aprendizaje actual**: DevOps , desarrollo de software y Modelos Machine Learning
 - 💬 **Pregúntame sobre**: kubernetes o ciberseguridad, sino es eso no estoy dispuestro a preguntas  
 - ⚡ **Dato curioso**: Soy una persona autodidacta, aprendi de forma autodidacta y me esfuerzo por ir aun mas . 😄
 
